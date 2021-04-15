@@ -1,0 +1,6 @@
+{
+    "require": {
+        "gocardless/gocardless-pro": "^4.11",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
